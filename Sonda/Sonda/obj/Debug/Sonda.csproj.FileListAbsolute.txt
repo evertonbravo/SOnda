@@ -1,0 +1,5 @@
+C:\Users\evert\Desktop\Projeto\Sonda\Sonda\bin\Sonda.dll
+C:\Users\evert\Desktop\Projeto\Sonda\Sonda\bin\Sonda.pdb
+C:\Users\evert\Desktop\Projeto\Sonda\Sonda\obj\Debug\Sonda.csprojResolveAssemblyReference.cache
+C:\Users\evert\Desktop\Projeto\Sonda\Sonda\obj\Debug\Sonda.dll
+C:\Users\evert\Desktop\Projeto\Sonda\Sonda\obj\Debug\Sonda.pdb
